@@ -9,6 +9,8 @@ The objective was to build an interactive dashboard for Plato’s Pizza (New Jer
 ✅ Customer Behavior – Dine-in vs Home Delivery, Cash vs Online Payments
 ✅ Business Solutions – Targeted offers & delivery optimization with impact
 
+---
+
 🖥️ Dashboard Pages
 
 ➡️ Page 1 – Business Context
@@ -28,6 +30,7 @@ Revenue share by pizza size, contribution %, ingredient word cloud.
 Heatmap (Day × Hour), Payment split, Delivery split, Problem–Solution–Impact cards.
 <img width="1120" height="566" alt="Pizza Sales - Power BI_page-0001" src="https://github.com/user-attachments/assets/b4721497-b41d-4c1f-8d01-3efdd73bf6a8" />
 
+---
 
 🎯 Key Insights
 
@@ -39,6 +42,8 @@ Category Mix: Veggie pizzas dominate volume but lower margins; Chicken & Supreme
 
 Customer Split: Payments ~50% Cash vs 50% Online; Delivery ~70% vs Dine-in 30%.
 
+---
+
 Impact Solutions:
 
 🎯 BOGO (Chicken & Supreme) in low hours = +$325/day net.
@@ -47,6 +52,8 @@ Impact Solutions:
 
 🥗🍗 Bundle offers (Veggie + Chicken) = +$500 margin/month.
 
+---
+
 🛠️ Tools & Tech
 
 Power BI → Data Modeling, DAX Measures, Heatmap, Field Parameters, Conditional Formatting
@@ -54,6 +61,8 @@ Power BI → Data Modeling, DAX Measures, Heatmap, Field Parameters, Conditional
 Excel → Dataset preparation (48,000 rows × 12 columns)
 
 GitHub → Documentation & Showcase
+
+---
 
 📌 Internship Details
 
@@ -64,6 +73,8 @@ Domain: Business Analyst
 Duration: 1st October 2025 – 1st February 2026
 
 Project: Pizza Sales & Seating Utilization Dashboard
+
+---
 
 🚀 How to Use
 
